@@ -221,5 +221,24 @@ footer{
 #cell5{
     background-image: url(../images/image5.jpg)
 }
-
+#btndev {
+    padding-top: 10px;
+}
+#btn{
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    height: 40px;
+    width: 150px;
+    background-color: #4aaaa5;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+    border: 0;  
+}
+#btn:hover{
+    border-color:  #777777;
+    border-style: solid;
+    border-bottom-width: 3px;
+}
 
